@@ -68,4 +68,8 @@ iOSInjectionProject/
 
 ### Objective-C Patch ###
 
+
+# macOS
+.DS_Store
+
 # End of https://www.toptal.com/developers/gitignore/api/objective-c
